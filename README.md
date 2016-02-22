@@ -1,5 +1,5 @@
 # django-newbie-cms
-Very simple CMS built with Django Framework
+Very simple CMS built with Django Framework { Blog Starter App }
 
 ###Installations (Manual):
 1. Unzip project
