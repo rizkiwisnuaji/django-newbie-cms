@@ -1,10 +1,10 @@
 # django-newbie-cms
 Very simple CMS built with Django Framework
 
-#Installations :
+###Installations :
 SOON
 
-#REQUIREMENTS :
+###REQUIREMENTS :
 1. Django==1.8.9
 2. django-ckeditor==5.0.3
 3. django-taggit==0.18.0
