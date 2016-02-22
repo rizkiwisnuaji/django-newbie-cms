@@ -1,8 +1,15 @@
 # django-newbie-cms
 Very simple CMS built with Django Framework
 
-###Installations :
-SOON
+###Installations (Manual):
+1. Unzip project
+2. cd to folder
+3. install virtualenv (recommended) ``[sudo] pip install virtualenv``
+4. activate virtualenv
+5. ``pip install -r requirements.txt``
+6. ``python manage.py syncdb``
+7. Run the ``collectstatic`` management command: ``python manage.py collectstatic``.
+8. Finally, run the app ``python manage.py runserver``
 
 ###Requirements :
 1. Django==1.8.9
