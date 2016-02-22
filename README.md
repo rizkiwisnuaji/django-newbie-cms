@@ -4,7 +4,7 @@ Very simple CMS built with Django Framework
 ###Installations :
 SOON
 
-###REQUIREMENTS :
+###Requirements :
 1. Django==1.8.9
 2. django-ckeditor==5.0.3
 3. django-taggit==0.18.0
