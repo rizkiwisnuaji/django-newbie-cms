@@ -26,7 +26,7 @@
 *.log
 *.sql
 *.sqlite
-manglo.sqlite3
+.sqlite3
 
 # OS generated files #
 ######################
