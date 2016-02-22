@@ -7,6 +7,10 @@ For more information on this file, see
 https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/
 """
 
+#==========| M4N6L0 | ==========#
+#                               #
+#==========| M4N6L0 | ==========#
+
 import os
 
 from django.core.wsgi import get_wsgi_application

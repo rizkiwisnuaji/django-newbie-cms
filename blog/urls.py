@@ -1,3 +1,7 @@
+#==========| M4N6L0 | ==========#
+#                               #
+#==========| M4N6L0 | ==========#
+
 from django.conf.urls import url
 
 from .feeds import LatestPostsFeed

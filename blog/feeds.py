@@ -1,3 +1,7 @@
+#==========| M4N6L0 | ==========#
+#                               #
+#==========| M4N6L0 | ==========#
+
 from django.contrib.syndication.views import Feed
 
 from django.template.defaultfilters import truncatewords

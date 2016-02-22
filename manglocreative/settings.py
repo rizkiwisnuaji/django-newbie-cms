@@ -10,11 +10,15 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
+#==========| M4N6L0 | ==========#
+#                               #
+#==========| M4N6L0 | ==========#
+
 import os
 
-APP_NAME = "Manglo Creative Official Website"
+APP_NAME = "Very Simple CMS with DJANGO"
 
-APP_EMAIL = "kodekoolabs@gmail.com"
+APP_EMAIL = "rizkiwisnuaji@comestoarra.com"
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'your_account@gmail.com'
